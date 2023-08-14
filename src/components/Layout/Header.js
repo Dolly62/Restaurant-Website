@@ -1,14 +1,17 @@
-import React from 'react'
+import React from "react";
 import classes from "./Header.module.css";
+import HeaderCartButton from "./HeaderCartButton";
+
 const Header = () => {
   return (
     <>
-     <header className={classes.head}>
+      <header className={classes.head}>
         <div>ReactMeals</div>
-        <button>Your Cart<span>0</span></button>
-        </header> 
+        <HeaderCartButton />
+      </header>
+      <div className={classes.mainImg}></div>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
