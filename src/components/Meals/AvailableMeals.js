@@ -12,20 +12,20 @@ const DUMMY_MEALS = [
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 16.5,
+    name: "Burger",
+    description: "Yummy and with extra cheese",
+    price: 100,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
+    name: "Chawmein",
+    description: "Spicy and tasty",
     price: 12.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
+    name: "Momo",
+    description: "Vegmomos",
     price: 18.99,
   },
 ];
