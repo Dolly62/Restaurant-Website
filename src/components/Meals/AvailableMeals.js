@@ -20,13 +20,13 @@ const DUMMY_MEALS = [
     id: "m3",
     name: "Chawmein",
     description: "Spicy and tasty",
-    price: 12.99,
+    price: 40.00,
   },
   {
     id: "m4",
     name: "Momo",
     description: "Vegmomos",
-    price: 18.99,
+    price: 18.00,
   },
 ];
 
